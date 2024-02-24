@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+transcript_output/
+wave_split/
+pyvenv.cfg
+*.wav
